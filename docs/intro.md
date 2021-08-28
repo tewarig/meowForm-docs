@@ -12,7 +12,7 @@ You just need to make a post resquest to the meowForms servers , ones you have r
 
 currently you can submit your response in two ways .
 
-if you are using plane html just submit your response here
+if you are using just html just submit your response here
 
 ```
 https://server.meowform.xyz/page/[your Email]l&[formName]
