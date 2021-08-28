@@ -18,3 +18,15 @@ if you are using just html just submit your response here
 https://server.meowform.xyz/page/[your Email]l&[formName]
 
 ```
+
+- if you are using a frontend framework then you need to send a post request to
+
+```html
+https://server.meowform.xyz/form/[Email]&[FormName]
+```
+
+- if you are not ready for that simply add form action to https://server.meowform.xyz/page/YourEmail in your code that would work like a charm.
+
+```html
+<Form action="https://server.meowform.xyz/page/YourEmail method="post" />
+```
