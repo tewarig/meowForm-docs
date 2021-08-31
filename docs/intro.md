@@ -6,7 +6,7 @@ You just need to make a post resquest to the meowForms servers , ones you have r
 
 ```js
 
-<Form action="https://server.meowform.xyz/page/YourEmail method="post" />
+<Form action="https://server.meowform.xyz/page/YourEmail&yourformname" method="post" />
 
 ```
 
