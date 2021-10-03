@@ -10,7 +10,7 @@ along with the data from the HTML form created by the user!
 
 If the POST request is made sucessfully the endpoint will return status 200 😁 otherwise it will result in some error 😕
 
-We will make use of the ```requests``` module in Python to work with HTTPS methods.<br><br>
+We will make use of the ```requests``` module in Python to work with HTTPS methods.
 
 # Talk is cheap show me the code!
 
