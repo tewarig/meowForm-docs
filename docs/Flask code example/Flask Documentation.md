@@ -1,6 +1,6 @@
 # Sending Request to MeowForms😸 (Flask)
 
-⚠️Make sure you have registed to the MeowForms😸
+⚠️Make sure you have registered to the MeowForms😸
 
 The endpoint to submit a response will be in the format:
 ```
