@@ -76,6 +76,18 @@ https://docs.meowform.xyz/docs/Html%20example/making%20form
 https://docs.meowform.xyz/docs/Html%20example/making%20form
 ```
 
+5. Python
+
+```bash
+https://docs.meowform.xyz/docs/Python%20Example/Python%20Documentation
+```
+
+6. Flask
+
+```bash
+https://docs.meowform.xyz/docs/Flask%20code%20example/Flask%20Documentation
+```
+
 ## 👨‍💻 Author
 
 ### 👤 Gaurav Tewari
