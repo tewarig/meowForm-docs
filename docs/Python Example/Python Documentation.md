@@ -28,6 +28,8 @@ Now for the interesting part, let's make a POST request to MeowForms😸!
 Here's how you can simply make a post request to the server and MeowForms😸 would save it.
 
 ```python
+import requests
+
 data = {
     '<column_1>' : '<value_1>',
     '<column_2>' : '<value_2>',
